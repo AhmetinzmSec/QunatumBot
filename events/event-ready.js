@@ -46,7 +46,7 @@ module.exports = client => {
     }, 5000);
      */
 
-    client.user.setActivity(`${version} || +yardım`, {type: 'PLAYING'});
+    client.user.setActivity(`${version} || $yardım`, {type: 'PLAYING'});
 
     client.on('message', msg => {
         client.emit('checkMessage', msg);
