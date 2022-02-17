@@ -1,11 +1,11 @@
 {
     "version": "Alpha v0.6",
     "version_name": "Alacakaranlık",
-    "yama_surum": "YAMA 0",
+    "yama_surum": "YAMA 34",
     "botstatus": "Bot Bakım Modunda",
     "botstatusno": "Bot Kullanıma Açık",
     "discord_js": "v13.6.0",
     "renk": "200b17",
     "slogan": "Quantum BÖRÜ, Güvenlikte Yeni Devrim \uD83D\uDD12",
-    "surum_notlari": "Geliştirici Herhangi Bir Bilgi Sağlamadı"
+    "surum_notlari": "**1 - )** Çok beklenen botlist komutları kullanıma sunuldu \n\n **2 - )** Kayıt sistemi aktifse partner rolünün seçilebildiği yeni buton eklendi \n\n Geliştirilmiş hastebin eval komutu yenilendi \n\n **3 - )** Üye karşılama sistemi eklendi \n\n **4 - )** Sunucu tanıtma sistemi eklendi \n\n **5 - )** Performans sorunları düzeltildi \n\n **6 - )** Merkezi uptime servisinden dağıtık platforma geçildi \n\n **7 - )** Shard odaları aktif edildi \n\n **8 - )** Toplu kod biriminden yonga setine geçildi \n\n **9 - )** Komutlar optimize edildi \n\n **10 - )** Performans sorunları düzeltildi \n\n **11 - )** Gecikmeler düzeltildi \n\n **12 - )** Sistemdeki çakışmalar genel olarak düzeltildi \n\n **13 - )** Logo yeniden tasarlandı \n\n **14 - )** Yeşil temadan Kızıl Kahve temasına geçildi"
 }
