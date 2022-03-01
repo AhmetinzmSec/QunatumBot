@@ -28,11 +28,11 @@ module.exports = client => {
 
     console.log(`TOPLAM KOMUT SAYISI : ${client.commands.size}`)
 
-    /* var randommessages = [
+    var randommessages = [
 
-        "Baybars",
-        "$davet",
-        "$yardım"
+        `${version} || $help`,
+        `${version} || #stopwar`,
+        `${version} || #peace`
 
     ]
 
@@ -44,9 +44,8 @@ module.exports = client => {
         client.user.setActivity(randommessages1, { type: 'PLAYING' });
 
     }, 5000);
-     */
 
-    client.user.setActivity(`${version} || $help`, {type: 'PLAYING'});
+    /*client.user.setActivity(`${version} || $help`, {type: 'PLAYING'});*/
 
     client.on('message', msg => {
         client.emit('checkMessage', msg);
