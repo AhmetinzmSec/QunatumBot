@@ -30,9 +30,9 @@ module.exports = client => {
 
     var randommessages = [
 
-        `${version} || $help`,
-        `${version} || #stopwar`,
-        `${version} || #peace`
+        `BAKIMDAYIZ || $help`,
+        `BAKIMDAYIZ || #stopwar`,
+        `BAKIMDAYIZ || #peace`
 
     ]
 
